@@ -1,0 +1,16 @@
+img
+{
+    height: 20em;
+}
+
+strong
+{
+    font-size: xx-large;
+}
+
+
+iframe
+{
+    display:block; 
+    margin: 0 auto;
+}
